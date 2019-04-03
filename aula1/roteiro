@@ -1,0 +1,24 @@
+Inicio do curso:
+	
+	Aula 1:
+		
+		Introdução dos objetivos do curso
+		Experiência dos alunos com programação
+		O que é programação
+		Por que python?
+
+		Programação:
+
+			Introduzir variavel com o codigo do exercicio1.py
+			Calculo do IMC com exercicio2.py
+			Diferenciar tipos com exercicio3.py
+
+			Atividade1:
+				Calcule a área de um trapézio Isósceles dado seu perímetro e
+				o comprimento das bases:
+				base maior = 9
+				base menor = 3
+				perímetro = 22
+
+			Introduzir condicionais com codigo exercicio4.py
+
